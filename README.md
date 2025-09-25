@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there, I’m Aditya Kumar Singh (aka adityasingh9699)
 
-<!--
-**adityasingh9699/adityasingh9699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer by profession. Cloud & backend enthusiast by passion.  
+Always chasing clean code, ginger tea, and unexpected bugs. 🐛
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Stuff I tinker with
+
+| Area | Tech & Tools |
+|---|---|
+| Backend & APIs | Python, FastAPI, Node.js, Express |
+| Databases | MongoDB, MySQL, Redis |
+| Messaging & Caching | RabbitMQ, Redis |
+| Cloud & DevOps | Azure, (sometimes AWS when feeling adventurous) |
+| Frontend / UI | Throw in ReactJS when I need to show something pretty |
+
+---
+
+### 🔭 What’s Cooking
+
+- Building projects — from “let’s just try this” to “hey this might actually work someday”  
+- Learning more about AI / GenAI integrations  
+- Improving stuff I’ve already built — doing the refactor dance yeayyy  
+
+---
+
+
+### 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/aditya-kumar-s-165232118/)  
+- [Email](mailto:adityasingh.aks96@gmail.com)  
+- If you have an idea, a chat, or just want to roast code together — hit me up.
+
+---
+
+Thanks for stopping by 👀 Let’s make stuff that matters.
