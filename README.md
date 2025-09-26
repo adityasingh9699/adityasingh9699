@@ -1,4 +1,7 @@
-# 👋 Hi there, I’m Aditya Kumar Singh (aka adityasingh9699)
+<h1 align="center">
+  Hi there 👋 I'm Aditya
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
 
 Software engineer by profession. Cloud & backend enthusiast by passion.  
 Always chasing clean code, ginger tea, and unexpected bugs. 🐛
